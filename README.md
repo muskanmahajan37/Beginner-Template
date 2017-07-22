@@ -1,2 +1,2 @@
-# Beginner-s-Template
-Bootstrap template for beginners.
+# Beginner's Template
+### Bootstrap template for beginners.
